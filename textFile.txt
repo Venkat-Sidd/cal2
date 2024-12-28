@@ -7,3 +7,8 @@ Added text file in newly
 // my name is
 
 // seond text file
+
+
+
+
+// had changes in Text File from newBranch2
